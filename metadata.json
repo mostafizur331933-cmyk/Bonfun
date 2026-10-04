@@ -1,0 +1,6 @@
+{
+  "name": "Bonfun",
+  "description": "Bonfun - On-demand service marketplace connecting customers with verified mistris and service professionals in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
